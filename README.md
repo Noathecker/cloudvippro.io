@@ -1,5 +1,6 @@
 <html lang="vi">
 <head>
+  <h1 id="project-title">xTab</h1
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Cloud Game Vip</title>
@@ -146,6 +147,10 @@
       justify-content: space-around;
       margin-bottom: 12px;
     }
+    #project-title {
+  display: none;
+}
+
   </style>
 </head>
 <body>
